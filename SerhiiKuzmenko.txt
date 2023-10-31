@@ -6,4 +6,4 @@ void main(){
 cout<<"Hello Git"<<endl;
 
 return 0;
-}
+}add new text in file SerhiiKuzmenko.txt
